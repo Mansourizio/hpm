@@ -1,0 +1,21 @@
+{
+  "name": "HPM",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "datatables.net-buttons-dt": "^2.3.6",
+    "datatables.net-dt": "^1.13.4",
+    "initialize-css": "^1.4.0",
+    "jquery": "^3.7.0",
+    "pdfmake": "^0.2.7",
+    "toastinette": "^1.0.0"
+  }
+}
